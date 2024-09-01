@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    padding: 90px;
+    background-color: darkblue;
+    
+}
+.retangulo{
+    background: transparent;
+    box-shadow: 5px 5px 25px whitesmoke;
+    height: 350px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    padding: 25px;
+    font-size: 20px;
+    background-image: linear-gradient(to right, orange, #0000CD, orange);
+    color: white;
+    border-radius: 30px;
+    border: solid 10px black;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    height: 30px;
+    width: 80px;
+    font-size: 20px;
+}

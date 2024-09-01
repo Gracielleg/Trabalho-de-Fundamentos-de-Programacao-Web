@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    padding: 30px;
+    background-image: linear-gradient(to right,#00008B, rgb(228, 228, 235),#00008B);
+}
+table, tr,th, td{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    width: 500px;
+    height: 10px;
+    margin-top: 20px;
+    box-shadow: 0 0 30px black;
+    border-style: double;
+    border: solid 4px #00008B;
+}
+button{
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 5px;
+    background-color: #4169E1;
+    font-weight: bold;
+}
+h1{
+    text-shadow:0.1em 0.1em #4169E1;
+    font-size: 55px;
+}
+th{
+    font-size: 40px;
+    height: 40px;
+    text-shadow: 0.1em 0.1em #8e8ed6;
+}
+button:hover{   
+    color: blue;background-color: blue;
+    color: aliceblue;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+}

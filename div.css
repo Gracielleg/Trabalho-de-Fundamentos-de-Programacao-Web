@@ -1,0 +1,61 @@
+body{
+    margin: auto;  
+    padding: 100px;
+    height: 100vh;
+}
+#cx1{
+    background-color:aliceblue;
+    width: 100px;
+    text-align: center;
+    margin: auto;  
+    margin-bottom: 20px;
+    border: solid 3px #0000CD;
+    cursor: pointer;
+}
+#cx2{
+    background-color:aliceblue;
+    width: 100px;
+    text-align: center;
+    margin: auto;  
+    margin-bottom: 20px;
+    border: solid 3px #0000CD;
+    cursor: pointer;
+    
+}
+#cx3{
+    background-color:aliceblue;
+    width: 100px;
+    text-align: center;
+    margin: auto; 
+    margin-bottom: 20px;  
+    border: solid 3px #0000CD;
+    cursor: pointer;
+}
+#cx4{
+    background-color:aliceblue;
+    width: 100px;
+    text-align: center;
+    margin: auto;  
+    margin-bottom: 20px;
+    border: solid 3px #0000CD;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    font-size: 50px;
+    text-shadow: 5px 5px 20px #7B68EE;
+}
+.divMaior{
+    background-color: black;
+    width: 150px;
+    height: 140px;
+    padding: 50px;
+    margin: auto;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
+    border-radius: 20px;
+    border: solid 4px #7B68EE;
+   
+}

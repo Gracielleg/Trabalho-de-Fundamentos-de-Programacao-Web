@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-image: url(noiteee.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+}  
+.container{
+    height:550px;
+    width: 250px;
+    background: rgba(0,0,0,0.5);
+    margin: auto;
+    border-radius: 15px;
+    padding: 20px;
+    border: solid 4px blue;
+}
+#input{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 19px;
+    background-color: rgb(128, 144, 249);
+    font-weight: bold;
+}
+label{
+    font-size: 30px;
+    color: blue;
+    text-shadow: 2px 1px white;
+}
+p{
+    font-size: 17px;
+    color: blue;
+    text-shadow: 2px 1px white;
+}
+#botao{
+    margin-top: 19px;
+    background-image: linear-gradient(to right, blue, white, blue);
+}
